@@ -1,3 +1,1 @@
-Оnly one project still exists: [putty_hlsyn](https://github.com/rmerzlyakov/putty_hlsyn) - It is PuTTY with Cisco/Huawei syntax highlight.
-
-Win32 executables available here: [https://github.com/rmerzlyakov/putty_hlsyn/releases](https://github.com/rmerzlyakov/putty_hlsyn/releases)
+At the moment there is only one project: [putty_hlsyn](https://github.com/rmerzlyakov/putty_hlsyn) - It is PuTTY with Cisco/Huawei syntax highlight.
