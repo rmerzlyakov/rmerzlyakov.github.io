@@ -1,9 +1,11 @@
-##PuTTY with Cisco/Huawei configs highlight.
+## PuTTY with Cisco/Huawei configs highlight.
 
 This is my attempt to make working with the command line interface of Cisco and Huawei equipment a little more comfortable by adding colors to the black and white console.
+
 ![screenshot1](screenshot1.png)
 
 Source code: [https://github.com/rmerzlyakov/putty_hlsyn](https://github.com/rmerzlyakov/putty_hlsyn)
+
 Win32 executables: [https://github.com/rmerzlyakov/putty_hlsyn/releases](https://github.com/rmerzlyakov/putty_hlsyn/releases)
 
 ## How to turn on
